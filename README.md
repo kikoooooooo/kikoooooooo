@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Python & Javascript.
 
-- 🧠 I am fluent HTML and CSS
+- 🧠 I’m fluent in HTML and CSS
 
 - 💞️ I can develop coherent & responsive web pages for you or your employer/organization. 
 
