@@ -9,7 +9,7 @@
 - 📫 You can reach me via my:
   - Website: 
   - Email: kiko_oc@protonmail.com
-  - Discord: kikoo#9022
+  - Discord: <a href="https://discordapp.com/users/854790762893803551/">kikoo#9022</a>
 
 <!--
 
