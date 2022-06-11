@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning:
   - Python
-  - Javascript
+  - JavaScript
+  - PHP
 
 - 🧠 I’m fluent in:
   - HTML
