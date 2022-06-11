@@ -9,7 +9,7 @@
   - CSS
 
 - 📫 You can reach me via my:
-  - Website: https://kiko-o.netlify.app
+  - Portfolio: https://kiko-o.netlify.app
   - Email: kiko_oc@protonmail.com
   - Discord: <a href="https://discordapp.com/users/854790762893803551/">kikoo#9022</a>
 
