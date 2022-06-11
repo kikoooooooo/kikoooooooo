@@ -1,4 +1,4 @@
-<h5>👋 Hello, I’m kiko o:</h5>
+<h4>👋 Hello, I’m kiko o:</h4>
 
 - 🌱 I’m currently learning Python & Javascript.
 
