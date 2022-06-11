@@ -1,4 +1,4 @@
-#👋 Hello, I’m kiko o:
+# 👋 Hello, I’m kiko o:
 
 - 🌱 I’m currently learning Python & Javascript.
 
