@@ -11,7 +11,7 @@
 
 - 📫 You can reach me via my:
   - Portfolio: https://kiko-o.netlify.app
-  - Email: kiko_oc@protonmail.com
+  - Email: <a href="mailto:kiko_oc@protomail.com">kiko_oc@protonmail.com</a>
   - Discord: <a href="https://discordapp.com/users/854790762893803551/">kikoo#9022</a>
 
 <!--
