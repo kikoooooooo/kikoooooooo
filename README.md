@@ -1,8 +1,12 @@
 # 👋 Hello, I’m kiko:
 
-- 🌱 I’m currently learning Python & Javascript.
+- 🌱 I’m currently learning:
+  - Python
+  - Javascript
 
-- 🧠 I’m fluent in HTML and CSS
+- 🧠 I’m fluent in:
+  - HTML
+  - CSS
 
 - 📫 You can reach me via my:
   - Website: https://kiko-o.netlify.app
