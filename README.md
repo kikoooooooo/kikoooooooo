@@ -1,5 +1,5 @@
 <h4>👋 Hello, I’m kiko o:</h4>
-
+<hr>
 - 🌱 I’m currently learning Python & Javascript.
 
 - 🧠 I’m fluent in HTML and CSS
