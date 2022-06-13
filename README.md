@@ -4,7 +4,7 @@
   - Python
   - JavaScript
   - PHP
-  - Smart Contract Programming (Cryptocurrency)
+  - Cryptocurrency Programming
   
 - 🧠 I’m fluent in:
   - HTML
