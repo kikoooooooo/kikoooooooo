@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning:
   - Python
   - JavaScript
-  - PHP
+  - React
   - Cryptocurrency Programming
   
 - 🧠 I’m fluent in:
