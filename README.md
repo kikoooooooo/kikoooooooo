@@ -3,5 +3,6 @@
 <ol>
   <li>Jun 10th</li>
   <li>Jun 13th</li>
+  <li>Jun 16th</li>
   <li>July 12th</li>
 </ol>
